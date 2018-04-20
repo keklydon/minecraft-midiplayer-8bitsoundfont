@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": 1,
-    "description": "GM Chipstruments pack WITH DRUMS!"
+    "pack_format": 3,
+    "description": "8Bit Soundfont for SBPrime's MidiPlayer"
   }
 }
